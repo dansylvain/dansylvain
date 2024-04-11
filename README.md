@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is a place where to personalize my Github profile. Content to come. STAY TUNED!
 <!--
 **dansylvain/dansylvain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
