@@ -1,17 +1,39 @@
-### Hi there 👋
+# Hello, I'm Dan! 👋
 
-This is a place where to personalize my Github profile. Content to come. STAY TUNED!
-<!--
-**dansylvain/dansylvain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a student at 42 School of Perpignan passionate about coding and technology. I enjoy exploring various programming languages and learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Studying at [42 School](https://www.42.fr/)
+- 💻 Proficient in HTML, CSS, JavaScript, C
+- 🌱 Currently learning about Networking and algorithms
+- 🔭 Exploring opportunities to collaborate on interesting projects
+- 📫 How to reach me: [Email](mailto:dsylvain@student.42perpignan.fr)
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+<div align="center">
+
+<a href="https://github.com/dansylvain/minishell_common">![42 Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/libft.png)</a>
+<a href="">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minishell.png?raw=true)</a>
+<a href="">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/push_swap.png?raw=true)</a>
+
+</div>
+
+Feel free to explore my repositories for more projects and contributions!
+
+## Connect with Me
+
+Let's connect and collaborate:
+
+- [LinkedIn](https://www.linkedin.com/in/dan-sylvain/)
+- [Email](mailto:dsylvain@student.42perpignan.fr)
+
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="developer on fire"></img></p>
+
+Happy coding! 🚀
