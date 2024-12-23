@@ -21,7 +21,7 @@ Here are some of the projects I've been working on:
 <a href="https://github.com/dansylvain/42_minishell">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minishell.png?raw=true)</a>
 <a href="https://github.com/dansylvain/pushswap">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/push_swapm.png?raw=true)</a>
 <a href="https://github.com/dansylvain/42_mini_rt">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minirt.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_libft">![42 Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/webservm.png?raw=true)</a>
+<a href="https://github.com/dansylvain/42_webserv">![42 Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/webservm.png?raw=true)</a>
 
 </div>
 
