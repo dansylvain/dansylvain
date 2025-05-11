@@ -1,18 +1,23 @@
-# Hello, I'm Dan! 👋
+# Ahoy! I'm Dan ⚓
 
-Welcome to my GitHub profile!
+Welcome to my GitHub — this is where I’m building my future in embedded electronics for luxury yachts 🛥️
 
-I'm a student at 42 School of Perpignan passionate about coding and technology. I enjoy exploring various programming languages and learning new skills.
-
-## About Me
+## 🔧 About Me
 
 - 🎓 Studying at [42 School](https://www.42.fr/)
-- 💻 Proficient in HTML, CSS, JavaScript, C
-- 🌱 Currently learning about Networking and algorithms
-- 🔭 Exploring opportunities to collaborate on interesting projects
+- 🛠️ Specializing in embedded systems & software development
+- 🌊 My goal: design intelligent interfaces for yachts (voice-controlled, touch-enabled, autonomous)
+- 📡 Currently doing an internship in Elne, working on Arduino-based digital art display & security
+- ✍️ I share my weekly progress and insights on Medium and LinkedIn
 - 📫 How to reach me: [Email](mailto:dsylvain@student.42perpignan.fr)
 
-## Projects
+## 🧰 Tech Stack & Tools
+
+- Languages: C, C++, C#, JavaScript, HTML/CSS
+- Tools & Tech: Arduino, Avalonia UI, Raspberry Pi, Git, Linux (Ubuntu)
+- Currently learning: voice interfaces, marine electronics, embedded regulations
+
+## 🚀 Featured Projects
 
 Here are some of the projects I've been working on:
 
@@ -24,15 +29,16 @@ Here are some of the projects I've been working on:
 <a href="https://github.com/dansylvain/42_webserv">![42 Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/webservm.png?raw=true)</a>
 
 </div>
+👉 More embedded electronics projects coming soon...
 
-Feel free to explore my repositories for more projects and contributions!
-
-## Connect with Me
+## 🤝 Connect with Me
 
 Let's connect and collaborate:
 
-- [LinkedIn](https://www.linkedin.com/in/dan-sylvain/)
 - [Email](mailto:dsylvain@student.42perpignan.fr)
+- [LinkedIn](https://www.linkedin.com/in/dan-sylvain/)
+- [Medium](https://medium.com/@dansylvain84)
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="developer on fire"></img></p>
