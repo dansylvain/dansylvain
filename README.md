@@ -41,6 +41,7 @@ Let's connect and collaborate:
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="developer on fire"></img></p>
+  
+<img src="https://i.giphy.com/l0LthdaxC4YeUMl7da.webp" alt="developer on fire"></img></p>
 
 Happy coding! 🚀
