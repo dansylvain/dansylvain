@@ -1,47 +1,37 @@
-# Ahoy! I'm Dan ⚓
-
-Welcome to my GitHub — this is where I’m building my future in embedded electronics for luxury yachts 🛥️
-
 ## 🔧 About Me
 
-- 🎓 Studying at [42 School](https://www.42.fr/)
-- 🛠️ Specializing in embedded systems & software development
-- 🌊 My goal: design intelligent interfaces for yachts (voice-controlled, touch-enabled, autonomous)
-- 📡 Currently doing an internship in Elne, working on Arduino-based digital art display & security
-- ✍️ I share my weekly progress and insights on Medium and LinkedIn
-- 📫 How to reach me: [Email](mailto:dsylvain@student.42perpignan.fr)
+- 🎓 42 School alum (Perpignan)
+- 🦀 Currently: transitioning C/C++ systems experience into Rust
+- 🌊 Focus: securing legacy embedded C for maritime electronics via Rust/FFI — ahead of the EU Cyber Resilience Act (compliance deadline: Dec
+2027)
+- 📍 Based in Rennes, France
 
-## 🧰 Tech Stack & Tools
+## 🚀 Current Project
 
-- Languages: C, C++, C#, JavaScript, HTML/CSS
-- Tools & Tech: Arduino, Avalonia UI, Raspberry Pi, Git, Linux (Ubuntu)
-- Currently learning: voice interfaces, marine electronics, embedded regulations
+**[`dashboard_NMEA_0183`](https://github.com/dansylvain/dashboard_NMEA_0183)** — a Rust TUI parsing NMEA 0183 marine navigation data,
+exploring Rust/C FFI to secure legacy sensor integration on boats.
 
-## 🚀 Featured Projects
+## 🧰 Tech Stack
 
-Here are some of the projects I've been working on:
+- **Primary:** Rust (ownership, FFI, `tokio`, `ratatui`)
+- **Background:** C, C++ (42 curriculum — shells, HTTP servers, threading, Unix signals)
+- Tools: Git, Linux, Arduino, Raspberry Pi
+
+## 🎓 42 Foundations
 
 <div align="center">
 
-<a href="https://github.com/dansylvain/42_minishell">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minishell.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_pushswap">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/push_swapm.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_mini_rt">![42 Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minirt.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_webserv">![42 Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/webservm.png?raw=true)</a>
+<a href="https://github.com/dansylvain/42_minishell">![42
+Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minishell.png?raw=true)</a>
+<a href="https://github.com/dansylvain/42_pushswap">![42
+Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/push_swapm.png?raw=true)</a>
+<a href="https://github.com/dansylvain/42_mini_rt">![42
+Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minirt.png?raw=true)</a>
+<a href="https://github.com/dansylvain/42_webserv">![42
+Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/webservm.png?raw=true)</a>
 
 </div>
-👉 More embedded electronics projects coming soon...
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
-Let's connect and collaborate:
-
-- [Email](mailto:dsylvain@student.42perpignan.fr)
 - [LinkedIn](https://www.linkedin.com/in/dan-sylvain/)
-- [Medium](https://medium.com/@dansylvain84)
-
-
-<p align="center">
-  
-<img src="https://i.giphy.com/l0LthdaxC4YeUMl7da.webp" alt="developer on fire"></img></p>
-
-Happy coding! 🚀
