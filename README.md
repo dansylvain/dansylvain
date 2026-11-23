@@ -1,31 +1,39 @@
-## 🔧 About Me
+<!--
+Brouillon du README de profil GitHub (dépôt dansylvain/dansylvain, fichier README.md).
+Points à confirmer par Dan avant publication :
+  - la ligne "Based in" (voir plus bas, choix de ce qu'on rend public) ;
+  - les niveaux de langue ;
+  - les liens des projets, une fois les README mis à jour.
+Bio courte (champ "Bio" du profil, 160 caractères max) proposée :
+  Software engineer: test automation (Playwright, TDD) & localization · FR / DE / ES / EN · 42 alum
+-->
 
-- 🎓 42 School alum (Perpignan)
-- 🦀 Currently: transitioning C/C++ systems experience into Rust
-- 🌊 Focus: securing legacy embedded C for maritime electronics via Rust/FFI — ahead of the EU Cyber Resilience Act (compliance deadline: Dec 2027)
-- 📍 Based in Rennes, France
+# Hi, I'm Dan 👋
 
-## 🚀 Current Project
+Software engineer working at the intersection of **code and languages**. I write automated tests, build tooling around multilingual content, and care about software that works the same way in every language.
 
-**[`dashboard_NMEA_0183`](https://github.com/dansylvain/dashboard_NMEA_0183)** — a Rust TUI parsing NMEA 0183 marine navigation data, exploring Rust/C FFI to secure legacy sensor integration on boats.
+42 School graduate (Architect in Digital Technologies, 2026). I speak **French (native), German, Spanish and English (C1)**.
 
-## 🧰 Tech Stack
+## What I do
 
-- **Primary:** Rust (ownership, FFI, `tokio`, `ratatui`)
-- **Background:** C, C++ (42 curriculum — shells, HTTP servers, threading, Unix signals)
-- Tools: Git, Linux, Arduino, Raspberry Pi
+- **Test automation:** TDD, end-to-end tests (Playwright), CI pipelines, Docker-based environments.
+- **Localization & internationalization:** checking translation files (placeholders, tags, plurals), pseudo-localization, multilingual QA.
+- **Tooling & data pipelines:** Python and Rust services, scraping within the rules, LLM-assisted extraction with human review.
+- **Systems background:** C and C++ from the 42 curriculum (shell, HTTP server, threads, Unix signals).
 
-## 🎓 42 Foundations
+## Featured projects
 
-<div align="center">
+| Project | What it shows |
+|---|---|
+| [**malt-radar**](https://github.com/dansylvain/malt-radar) | Distributed edge/cloud pipeline: Python ingestion, local LLM extraction, daily Claude digest, Rust TUI. Tests and CI across services; legal-first data sourcing. |
+| [**ft_transcendence**](https://github.com/dansylvain/ft_transcendence) | Team capstone: multiplayer Pong with Django microservices, WebSockets, JWT auth, Docker Compose. I built the front end. |
+| [**42_webserv**](https://github.com/dansylvain/42_webserv) | HTTP/1.1 server in C++ (non-blocking I/O, CGI, config file) with unit and load tests. Built as a pair. |
+| [**42_minishell**](https://github.com/dansylvain/42_minishell) | A small Unix shell in C. |
 
-<a href="https://github.com/dansylvain/42_minishell">![42Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minishell.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_pushswap">![42Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/push_swapm.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_mini_rt">![42Badge](https://github.com/dansylvain/dansylvain/blob/main/assets/minirt.png?raw=true)</a>
-<a href="https://github.com/dansylvain/42_webserv">![42Badge](https://raw.githubusercontent.com/dansylvain/dansylvain/main/assets/webservm.png?raw=true)</a>
+## Languages
 
-</div>
+**French** (native) · **German**, **Spanish** and **English** (C1)
 
-## 🤝 Connect
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/dan-sylvain/)
+[LinkedIn](https://www.linkedin.com/in/dan-sylvain)
