@@ -1,13 +1,3 @@
-<!--
-Brouillon du README de profil GitHub (dépôt dansylvain/dansylvain, fichier README.md).
-Points à confirmer par Dan avant publication :
-  - la ligne "Based in" (voir plus bas, choix de ce qu'on rend public) ;
-  - les niveaux de langue ;
-  - les liens des projets, une fois les README mis à jour.
-Bio courte (champ "Bio" du profil, 160 caractères max) proposée :
-  Software engineer: test automation (Playwright, TDD) & localization · FR / DE / ES / EN · 42 alum
--->
-
 # Hi, I'm Dan 👋
 
 Software engineer working at the intersection of **code and languages**. I write automated tests, build tooling around multilingual content, and care about software that works the same way in every language.
