@@ -2,7 +2,7 @@
 
 Software engineer working at the intersection of **code and languages**. I write automated tests, build tooling around multilingual content, and care about software that works the same way in every language.
 
-42 School graduate (Architect in Digital Technologies, 2026). I speak **French (native), German, Spanish and English (C1)**.
+42 School graduate (Architect in Digital Technologies, 2026).
 
 ## What I do
 
